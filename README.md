@@ -9,4 +9,4 @@ Then, prompts you to log back into each app.
 
 2. Double click the bat file whenever you wish to reset Avaya and CTI.
 
-If you have any issues or questions feel free to submit an issue in GitHub so I can keep track of it.
+If you have any issues or questions feel free to submit an issue in [GitHub](https://github.com/AMorrow82/reset_avaya_cti/issues/new/choose) so I can keep track of it.
